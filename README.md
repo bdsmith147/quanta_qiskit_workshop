@@ -6,7 +6,11 @@
 # :mag: Introduction
 The purpose of this activity is to provide an an accessible, interactive, and safe learning environment where particpants can explore and push themselves in quantum computing topics. It features three (or four) lab challenges using IBM's open-source [Qiskit](https://qiskit.org/) software package and free interactive textbook.
 
-We recognize that participants will have *widely* varying levels of experience in quantum computing. This is ok! No one is expected to be an expert, but rather to learn and grow from where they are at. For that reason, this workshop is designed to be practical, hands-on, and interactive. Participants will be randomly paired and work together through the challenges. For incentive, participants completing the various sub-challenges can enter to win one of three raffle prizes. Winners will be randomly drawn at the end of the symposium. :tada:
+We recognize that participants will have *widely* varying levels of experience in quantum computing. This is ok! No one is expected to be an expert, but rather to learn and grow from where they are at. For that reason, this workshop is designed to be practical, hands-on, and interactive. Participants will be randomly paired and work together through the challenges. For incentive, participants completing the various sub-challenges can enter to win one of three tiered raffle prizes. Winners will be randomly drawn at the end of the symposium. :tada:
+
+<p >
+<h3 align="center"> :link: <a href="https://learn.qiskit.org/syllabus/NLE-AV2">Here is the link to the challenges</a> :link:</h3>
+</p>
 
 
 ## :dart: Learning Outcomes
@@ -16,17 +20,19 @@ By the end of this session, participants will be able to:
 3. Recognize various single- and multi-qubit gates and predict their effects on a qubit's state.
 
 
-## :loudspeaker: Preliminary Instruction:
+## :loudspeaker: Preliminary Instructions:
 * State space of a qubit
 * Setting up a quantum cicuit
   * The difference between classical and quantum channels
 * Registering with IBM Quantum Experience
 
-There are lots of different platforms for designing quantum circuits. Qiskit is just one of them. The reason we have chosen to work with this ons is because of the availability and accessibliity of IBM's online interactive textbook. For individuals who are new to this, it gets them off the ground faster; for those with more experience, this provides them an easy opportunity to explore the functionality.
+(*The following paragraphs are personal notes for designing the introductory presentation* )
 
-Instruction will be very minimal; participants will be required to study and seek out answers with their assigned partner. I am willing to help as a resource, but my abilities will be limited with such a large group. I've provided tips and suggestions for when you get stuck. When 30 minutes remain, I will update the website with my pages of solutions that I compiled while working through these labs myself.
+> There are lots of different platforms for designing quantum circuits. Qiskit is just one of them. The reason we have chosen to work with this ons is because of the availability and accessibliity of IBM's online interactive textbook. For individuals who are new to this, it gets them off the ground faster; for those with more experience, this provides them an easy opportunity to explore the functionality.
 
-The purpose of these challenges is to provide a venue for us to learn and explore. Maybe we know about these concepts, and we know that there are companies and tools to use, but we might not have set aside time to really engage with them. We should acknowlege that we are all learning here. This should be a safe place to “Take chances, make mistakes, and get messy!” Raise your hand if you agree with this!
+> Instruction will be very minimal; participants will be required to study and seek out answers with their assigned partner. I am willing to help as a resource, but my abilities will be limited with such a large group. I've provided tips and suggestions for when you get stuck. When 30 minutes remain, I will update the website with my pages of solutions that I compiled while working through these labs myself.
+
+> The purpose of these challenges is to provide a venue for us to learn and explore. Maybe we know about these concepts, and we know that there are companies and tools to use, but we might not have set aside time to really engage with them. We should acknowlege that we are all learning here. This should be a safe place to “Take chances, make mistakes, and get messy!” Raise your hand if you agree with this!
 
 
 ## :warning: Disclaimer:
@@ -62,7 +68,7 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
     * :sun_with_face: If you had to describe how you’re feeling right now as a weather pattern, what’s your forecast?
     * :alarm_clock: What’s one thing you’ve been procrastinating on and can’t finish?
     * :blossom: What are you grateful for today?
-2. Review the challenge labs, and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
+2. Review the [challenge labs](https://learn.qiskit.org/syllabus/NLE-AV2), and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
 <table>
 <thead>
   <tr>
@@ -102,5 +108,8 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 3. After completing one challenge, try another one!
 4. When only 30 minutes remain in our session, solutions to the challenges will be posted
-5. At the end of the session, you will fill and submit an exit survey giving **anonymous** feedback on this session; on the submission confirmation page there is a link to the raffle submission survey.
-6. There isn't a practical way to check that every person completed their chosen challenge. Submissions will be self-assessed, and "on your honor".
+5. At the end of the session, you will fill and submit an exit survey giving **anonymous** feedback on this session; on the submission confirmation page there is a link to the raffle submission survey. (We don't have a practical way to assess every person's work. :memo: Submissions will be self-assessed and "on your honor". :raising_hand:)
+
+<p >
+<h3 align="center"> :arrow_right: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJO9WOijwg9UhQwZIoX7p2etslehoy12ZFFj8S2q7jWGt0cQ/viewform?usp=sf_link">Here is the link to the exit survey</a> :arrow_left:</h3>
+</p>
