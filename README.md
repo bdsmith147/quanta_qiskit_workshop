@@ -26,6 +26,7 @@ By the end of this session, participants will be able to:
   * The difference between classical and quantum channels
 * Registering with IBM Quantum Experience
 
+<!---
 (*The following paragraphs are personal notes for designing the introductory presentation* )
 
 > There are lots of different platforms for designing quantum circuits. Qiskit is just one of them. The reason we have chosen to work with this ons is because of the availability and accessibliity of IBM's online interactive textbook. For individuals who are new to this, it gets them off the ground faster; for those with more experience, this provides them an easy opportunity to explore the functionality.
@@ -34,6 +35,7 @@ By the end of this session, participants will be able to:
 
 > The purpose of these challenges is to provide a venue for us to learn and explore. Maybe we know about these concepts, and we know that there are companies and tools to use, but we might not have set aside time to really engage with them. We should acknowlege that we are all learning here. This should be a safe place to “Take chances, make mistakes, and get messy!” Raise your hand if you agree with this!
 
+--->
 
 ## :warning: Disclaimer:
 The Quanta Symposium organizers did not write these labs and exercises. We are not responsible for the typos and inconsistencies you might notice. :grimacing:
@@ -57,15 +59,16 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 [Here's a document](https://raw.githubusercontent.com/qiskit-community/qiskit-textbook/main/content/ch-states/supplements/single-gates-cheatsheet.pdf) listing many different single-qubit quantum gates as they appear in Qiskit.
 
-
+<!---
 (* Take a picture of the group seated in the computer lab *)
 (What if members of the same group don't want to do the same Lab??)
 (How do participants login to the computers?? I need to go back.)
+--->
 
 ## :page_with_curl: Instructions
 1. Take a few minutes to introduce yourself to your partner and get to know them. You might ask questions such as:
+    * :partly_sunny: If you had to describe how you’re feeling right now as a weather pattern, what’s your forecast?
     * :rocket: If you were setting off to Mars and could take only one luxury item with you, what would it be?
-    * :sun_with_face: If you had to describe how you’re feeling right now as a weather pattern, what’s your forecast?
     * :alarm_clock: What’s one thing you’ve been procrastinating on and can’t finish?
     * :blossom: What are you grateful for today?
 2. Review the [challenge labs](https://learn.qiskit.org/syllabus/NLE-AV2), and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
