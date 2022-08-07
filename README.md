@@ -168,5 +168,5 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 7. Log out of the computer station by double-clicking the "Sign out" button on the Desktop:
 <p align="center">
-<img src="Media/sign_out.png">
+<img src="Media/signout.png">
 </p>
