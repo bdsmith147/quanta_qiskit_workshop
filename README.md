@@ -9,7 +9,7 @@ The purpose of this activity is to provide an an accessible, interactive, and sa
 We recognize that participants will have *widely* varying levels of experience in quantum computing. This is ok! No one is expected to be an expert, but rather to learn and grow from where they are at. For that reason, this workshop is designed to be practical, hands-on, and interactive. Participants will be randomly paired and work together through the challenges. For incentive, participants completing the various sub-challenges can enter to win one of three tiered raffle prizes. Winners will be randomly drawn at the end of the symposium. :tada:
 
 <p >
-<h3 align="center"> :link: <a href="https://learn.qiskit.org/syllabus/NLE-AV2">Here is the link to the challenges</a> :link:</h3>
+<h3 align="center"> :link: <a href="https://learn.qiskit.org/syllabus/NLE-AV2">Here is a link to the interactive textbook challenges</a> :link:</h3>
 </p>
 
 
@@ -17,10 +17,12 @@ We recognize that participants will have *widely* varying levels of experience i
 By the end of this session, participants will be able to:
 1. Identify the Qiskit Textbook as a free resource for personal learning of quantum computation.
 2. Construct and execute a quantum circuit using Qiskit. 
-3. Recognize various single- and multi-qubit gates and predict their effects on a qubit's state.
+3. Recognize several single- and multi-qubit gates and predict their effects on a qubit's state.
 
+## :speech_balloon: Challenge Partners:
+Learning is often accelerated and more effective with others. 
 
-## :loudspeaker: Preliminary Instructions:
+## :loudspeaker: Preliminary Instruction:
 * State space of a qubit
 * Setting up a quantum cicuit
   * The difference between classical and quantum channels
@@ -43,7 +45,7 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 ## :warning: Warnings:
 * These labs will be easier to those with Python experience.
 * If your lab page is inactive for too long, the kernel will die and you will have to refresh the page in order to execute any code.
-* **If you refresh the page, all previously entered code will be lost**. Before doing so, we recommend you copy your code to a text editor.
+* **If you refresh the page, all previously entered code will be lost**. Before doing so, we recommend you copy your code to a text editor such as Notepad++.
 * Some of the pre-written Qiskit functions are deprecated. In that case, you will have to search and find the correct replacement functions.
 
 ## :point_up: General tips:
@@ -65,54 +67,106 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 (How do participants login to the computers?? I need to go back.)
 --->
 
-## :page_with_curl: Instructions
-1. Take a few minutes to introduce yourself to your partner and get to know them. You might ask questions such as:
+# :page_with_curl: Challenge Instructions
+1. Login to your computer station by double-clicking on the Desktop icon and entering either:
+    * **UAlberta participants**: Your CCID & Password
+    * **Non-UAlberta participants**: The Temporary Network Access ID & Password you received during registration.
+
+<br>
+
+2. Take a few minutes to introduce yourself to your partner and get to know them. You might ask questions such as:
+    * :computer: What's your background with Qiskit?
     * :partly_sunny: If you had to describe how you’re feeling right now as a weather pattern, what’s your forecast?
     * :rocket: If you were setting off to Mars and could take only one luxury item with you, what would it be?
     * :alarm_clock: What’s one thing you’ve been procrastinating on and can’t finish?
     * :blossom: What are you grateful for today?
-2. Review the [challenge labs](https://learn.qiskit.org/syllabus/NLE-AV2), and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
+
+<br>
+
+3. Review the [challenge labs](https://learn.qiskit.org/syllabus/NLE-AV2), and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
 <table>
-<thead>
-  <tr>
-    <th>Raffle Level</th>
-    <th>Lab Name</th>
-    <th>Description</th>
-    <th>Est. Completion Time</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Level 1</td>
-    <td>Lab 2: Single Qubit Gates</td>
-    <td>Explore the effects of gates on a qubit's state.</td>
-    <td>20 min</td>
-  </tr>
-    <tr>
-    <td>Level 1</td>
-    <td>Lab 4: Bell Circuit & GHZ Circuit</td>
-    <td>Construct maximally entangled multi-qubit states.</td>
-    <td>35 min</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>Lab 1: Quantum Circuits</td>
-    <td>Contruct classical logic circuits using quantum gates. Test on a real quantum computer.</td>
-    <td>30-45 min</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>Lab 3: Quantum Measurements</td>
-    <td>Compute expectation values in the computational basis. Calculate hydrogen hyperfine energy. Execute on a quantum computer.</td>
-    <td>60-90 minutes</td>
-  </tr>
-</tbody>
+    <thead>
+        <tr>
+            <th>Raffle Level</th>
+            <th>Qiskit Lab</th>
+            <th>Description</th>
+            <th>Raffle Entry Requirements</th>
+            <th>Est. Comp. Time [min]</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=3>Level 1</td>
+            <td rowspan=1>Qiskit Lab #2: Single Qubit Gates</td>
+            <td rowspan=1>Explore the effects of gates on a qubit's state.</td>
+            <td>&#9744; Parts 1-6</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Qiskit Lab #4: Bell Circuit & GHZ Circuit</td>
+            <td rowspan=2>Construct maximally entangled multi-qubit states.</td>
+            <td>&#9744; Parts 1-2: Bell Circuit (only up to "submit job")</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td>&#9744; Parts 3-4: GHZ Circuit (only up to "submit job")</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Level 2</td>
+            <td rowspan=2>Qiskit Lab #1: Quantum Circuits</td>
+            <td rowspan=2>Contruct classical logic circuits using quantum gates. Test on a real quantum computer.</td>
+            <td>&#9744; Part 1: Classical logic gates with quantum circuits</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>&#9744; Part 2: AND gate on a Quantum computer (only up to "submit job")</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Level 3</td>
+            <td rowspan=3>Qiskit Lab #3: Quantum Measurements</td>
+            <td rowspan=3>Compute expectation values in the computational basis. Calculate hydrogen hyperfine energy. Execute on a quantum computer.</td>
+            <td>&#9744; Part 1: Measuring the state of a qubit</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>&#9744; Part 2: Measuring Energy</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>&#9744; Part 3: Executing the circuit on a quantum computer (only up to "submit job")</td>
+            <td>25</td>
+        </tr>
+    </tbody>
 </table>
 
-3. After completing one challenge, try another one!
-4. When only 30 minutes remain in our session, solutions to the challenges will be posted
-5. At the end of the session, you will fill and submit an exit survey giving **anonymous** feedback on this session; on the submission confirmation page there is a link to the raffle submission survey. (We don't have a practical way to assess every person's work. :memo: Submissions will be self-assessed and "on your honor". :raising_hand:)
+<br>
 
-<p >
+4. After completing one challenge, try another one!
+
+<br>
+
+5. At 16:00 when only 30 minutes remain in our session, solutions to the challenges will be posted here:
+
+<p><h3 align="center">
+:sleeping: Nothing to see yet...
+<!---
+:thumbsup:<a href="https://typhoon-slayer-82f.notion.site/Quanta-Quantum-Computing-Challenges-Exploration-0061c4ba31be43a6a328c8a9e0ea2ce4">Solutions to Qiskit labs</a>:thumbsup:
+--->
+</h3></p>
+
+<br>
+
+6. At the end of the session, please fill and submit an exit survey giving **anonymous** feedback on this session; on the submission confirmation page there is a link to the <u>raffle submission survey</u>. (We don't have a practical way to verify every person's work. :memo: Submissions will be self-assessed and "on your honor". :raising_hand:)
+
+<p>
 <h3 align="center"> :arrow_right: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJO9WOijwg9UhQwZIoX7p2etslehoy12ZFFj8S2q7jWGt0cQ/viewform?usp=sf_link">Here is the link to the exit survey</a> :arrow_left:</h3>
+</p>
+
+<br>
+
+7. Log out of the computer station by double-clicking the "Sign out" button on the Desktop:
+<p align="center">
+<img src="Media/sign_out.png">
 </p>
