@@ -109,7 +109,7 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
             <td>15</td>
         </tr>
         <tr>
-            <td>&#9744; Parts 3-4: GHZ Circuit (only up to "submit job")</td>
+            <td>&#9744; Parts 3-5: GHZ Circuit (only up to "submit job")</td>
             <td>15</td>
         </tr>
         <tr>
