@@ -50,7 +50,6 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 ## :point_up: General tips:
 * It may be helpful to review some of the Prerequisite and Other Relevant Material at the beginning of each lab.
-* For testing out circuit configurations, try using the [drag-and drop Quirk simulator](https://algassert.com/quirk)
 * The "Scratchpad" lab sidebar can be helpful for debugging Qiskit code.
 * Google is your friend. External resources such as StackExchange can be very helpful.
 * There are also links throughout the labs to relevant portions of the Qiskit textbook. 
@@ -58,8 +57,9 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 * A `QuantumCircuit` object can contain both quantum and classical channels. Calling `qc = QuantumCircuit(2, 1)` will create a circuit with 2 quantum channels and one classical channel.
 * The [Qiskit documentation pages](https://qiskit.org/documentation/#) for individual functions can be helpful.
 
-
-[Here's a document](https://raw.githubusercontent.com/qiskit-community/qiskit-textbook/main/content/ch-states/supplements/single-gates-cheatsheet.pdf) listing many different single-qubit quantum gates as they appear in Qiskit.
+## :hammer: Other resources:
+* The [Grok Bloch simulator](https://javafxpert.github.io/grok-bloch/ is a nice interactive tool for visualizing operations on the Bloch sphere.
+* For testing out circuit configurations, try using the [drag-and drop Quirk simulator](https://algassert.com/quirk)
 
 <!---
 (* Take a picture of the group seated in the computer lab *)
@@ -74,16 +74,8 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 <br>
 
-2. Take a few minutes to introduce yourself to your partner and get to know them. You might ask questions such as:
-    * :computer: What's your background with Qiskit?
-    * :partly_sunny: If you had to describe how you’re feeling right now as a weather pattern, what’s your forecast?
-    * :rocket: If you were setting off to Mars and could take only one luxury item with you, what would it be?
-    * :alarm_clock: What’s one thing you’ve been procrastinating on and can’t finish?
-    * :blossom: What are you grateful for today?
 
-<br>
-
-3. Review the [challenge labs](https://learn.qiskit.org/syllabus/NLE-AV2), and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
+2. Review the [challenge labs](https://learn.qiskit.org/syllabus/NLE-AV2), and select one to begin with. Below is a table describing the different challenges. The estimated times should roughly indicate the difficulty of each challenge.
 <table>
     <thead>
         <tr>
@@ -143,11 +135,11 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 <br>
 
-4. After completing one challenge, try another one!
+3. After completing one challenge, try another one!
 
 <br>
 
-5. At 16:00 when only 30 minutes remain in our session, solutions to the challenges will be posted here:
+4. At 16:00 when only 30 minutes remain in our session, solutions to the challenges will be posted here:
 
 <p><h3 align="center">
 :sleeping: Nothing to see yet...
@@ -158,7 +150,7 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 <br>
 
-6. At the end of the session, please fill and submit an exit survey giving **anonymous** feedback on this session; on the submission confirmation page there is a link to the <u>raffle submission survey</u>. (We don't have a practical way to verify every person's work. :memo: Submissions will be self-assessed and "on your honor". :raising_hand:)
+5. At the end of the session, please fill and submit an exit survey giving **anonymous** feedback on this session; on the submission confirmation page there is a link to the <u>raffle submission survey</u>. (We don't have a practical way to verify every person's work. :memo: Submissions will be self-assessed and "on your honor". :raising_hand:)
 
 <p>
 <h3 align="center"> :arrow_right: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJO9WOijwg9UhQwZIoX7p2etslehoy12ZFFj8S2q7jWGt0cQ/viewform?usp=sf_link">Here is the link to the exit survey</a> :arrow_left:</h3>
@@ -166,7 +158,7 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 
 <br>
 
-7. Log out of the computer station by double-clicking the "Sign out" button on the Desktop:
+6. Log out of the computer station by double-clicking the "Sign out" button on the Desktop:
 <p align="center">
 <img src="Media/signout.png">
 </p>
