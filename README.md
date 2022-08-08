@@ -146,10 +146,12 @@ The Quanta Symposium organizers did not write these labs and exercises. We are n
 4. At 16:00 when only 30 minutes remain in our session, solutions to the challenges will be posted here:
 
 <p><h3 align="center">
-:sleeping: Nothing to see yet...
+
 <!---
-:thumbsup:<a href="https://typhoon-slayer-82f.notion.site/Quanta-Quantum-Computing-Challenges-Exploration-0061c4ba31be43a6a328c8a9e0ea2ce4">Solutions to Qiskit labs</a>:thumbsup:
+:sleeping: Nothing to see yet...
 --->
+:thumbsup:<a href="https://typhoon-slayer-82f.notion.site/Quanta-Quantum-Computing-Challenges-Exploration-0061c4ba31be43a6a328c8a9e0ea2ce4">Solutions to Qiskit labs</a>:thumbsup:
+
 </h3></p>
 
 <br>
