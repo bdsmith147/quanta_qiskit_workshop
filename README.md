@@ -26,6 +26,7 @@ Learning is often accelerated and more effective with others.
 [Here is a link to the introductory slide presentation](https://docs.google.com/presentation/d/1eahnPPt2JkPUflNsXgBSjHIXFPMDnDz-qe2fwdy-d6Q/edit?usp=sharing)
 
 <br>
+
 * State space of a qubit
 * Setting up a quantum cicuit
   * The difference between classical and quantum channels
