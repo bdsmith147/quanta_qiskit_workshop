@@ -4,7 +4,7 @@
 </p>
 
 # :mag: Introduction
-The purpose of this activity is to provide an an accessible, interactive, and safe learning environment where particpants can explore and push themselves in quantum computing topics. It features three (or four) lab challenges using IBM's open-source [Qiskit](https://qiskit.org/) software package and free interactive textbook.
+The purpose of this activity is to provide an accessible, interactive, and safe learning environment where particpants can explore and push themselves in quantum computing topics. It features three (or four) lab challenges using IBM's open-source [Qiskit](https://qiskit.org/) software package and free interactive textbook.
 
 We recognize that participants will have *widely* varying levels of experience in quantum computing. This is ok! No one is expected to be an expert, but rather to learn and grow from where they are at. For that reason, this workshop is designed to be practical, hands-on, and interactive. Participants will be randomly paired and work together through the challenges. For incentive, participants completing the various sub-challenges can enter to win one of three tiered raffle prizes. Winners will be randomly drawn at the end of the symposium. :tada:
 
