@@ -1,4 +1,4 @@
-# Quanta Computing Challenges & Exploration
+# Quantum Computing Challenges & Exploration
 <p align="center">
 <img src="Media/Symposium_Final.png" width=250>
 </p>
